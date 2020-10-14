@@ -8,6 +8,12 @@
 - ⚡ Fun fact: I love to play videogames and learn about new technologies.
 
 #### Conect with me:
-[<img align="left" title="Linkedin" alt="LinkedIn" width="22px" src="https://www.linkedin.com/in/emerson-jahn-76285a180/" />][linkedin]
-[<img align="left" title="Instagram" alt="Instagram" width="22px" src="https://www.instagram.com/emerson_jahn/" />][instagram]
-[<img align="left" title="Gmail" alt="Gmail" width="22px" src="mailto:emersonajahn@gmail.com" />][gmail]
+[<img align="left" title="Linkedin" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" title="Instagram" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" title="Gmail" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][gmail]
+
+
+
+[instagram]: https://www.instagram.com/emerson_jahn/
+[linkedin]: https://www.linkedin.com/in/emerson-jahn-76285a180/
+[gmail]: mailto:emersonajahn@gmail.com/
